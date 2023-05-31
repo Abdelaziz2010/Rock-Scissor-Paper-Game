@@ -1,1 +1,1 @@
-## Rock-Scissor-Paper-Game using Pygame
+## Rock-Scissor-Paper Game using Pygame
